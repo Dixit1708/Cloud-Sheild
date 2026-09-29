@@ -1,0 +1,5 @@
+{
+    "s3_public": true,
+    "security_group_open": true,
+    "mfa_enabled": false
+}
